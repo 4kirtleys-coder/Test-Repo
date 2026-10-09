@@ -2,7 +2,7 @@
 
 ![Build Status](https://github.com/4kirtleys-coder/Test-Repo/actions/workflows/main.yml/badge.svg)
 [![LICENSE](https://img.shields.io/github/license/4kirtleys-coder/test-repo?style=flat-square)](https://github.com/4kirtleys-coder/test-repo/blob/develop/LICENSE)
-![Release](https://img.shields.io/badge/release-v1.0.0-green?style=flat-square)
+[![Releases](https://img.shields.io/github/release/4kirtleys-coder/test-repo/all.svg?style=flat-square)](https://github.com/4kirtleys-coder/test-repo/releases)
 
 
 ## 📖 Project Description
