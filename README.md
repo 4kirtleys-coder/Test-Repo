@@ -1,7 +1,8 @@
 # Test-Repo
 
 ![workflow](https://github.com/4kirtleys-coder/Test-Repo/actions/workflows/main.yml/badge.svg)
-[![LICENSE](https://img.shields.io/github/license/4kirtleys-coder/devops.svg?style=flat-square)](https://github.com/4kirtleys-coder/devops/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/4kirtleys-coder/Test-Repo?style=flat-square)](https://github.com/4kirtleys-coder/Test-Repo/blob/develop/LICENSE)
+
 
 ![Release](https://img.shields.io/badge/release-v1.0.0-green?style=flat-square)
 # DevOps
