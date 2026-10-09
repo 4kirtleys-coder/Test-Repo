@@ -1,10 +1,12 @@
 # Test-Repo
 
-![workflow](https://github.com/4kirtleys-coder/Test-Repo/actions/workflows/main.yml/badge.svg)
+# Test-Repo
+
+![GitHub Workflow Status (develop branch)](https://img.shields.io/github/actions/workflow/status/4kirtleys-coder/Test-Repo/main.yml?branch=develop&style=flat-square)
 [![LICENSE](https://img.shields.io/github/license/4kirtleys-coder/Test-Repo?style=flat-square)](https://github.com/4kirtleys-coder/Test-Repo/blob/develop/LICENSE)
+[![Releases](https://img.shields.io/github/v/release/4kirtleys-coder/Test-Repo?style=flat-square)](https://github.com/4kirtleys-coder/Test-Repo/releases)
 
 
-![Release](https://img.shields.io/badge/release-v1.0.0-green?style=flat-square)
 # DevOps
 ![GitHub Workflow Status (devops branch)](https://img.shields.io/github/actions/workflow/status/4kirtleys-coder/Test-Repo/main.yml?branch=devops&style=flat-square)
 
