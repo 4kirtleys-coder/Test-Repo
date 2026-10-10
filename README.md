@@ -1,10 +1,11 @@
 # Test-Repo
+
 ![Build Status](https://github.com/4kirtleys-coder/Test-Repo/actions/workflows/main.yml/badge.svg)
 [![LICENSE](https://img.shields.io/github/license/4kirtleys-coder/test-repo?style=flat-square)](https://github.com/4kirtleys-coder/test-repo/blob/develop/LICENSE)
 [![Releases](https://img.shields.io/github/release/4kirtleys-coder/test-repo/all.svg?style=flat-square)](https://github.com/4kirtleys-coder/test-repo/releases)
 
 # DevOps
-![GitHub Workflow Status (develop branch)](https://img.shields.io/github/actions/workflow/status/4kirtleys-coder/test-repo/main.yml?branch=develop&style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/4kirtleys-coder/test-repo/<action name taken from main.yml>/<branch>?style=flat-square)
 
 ## 📖 Project Description
 This project is a Java application built with Maven. It demonstrates basic functionality and is used to test CI/CD workflows.
